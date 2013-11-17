@@ -35,6 +35,7 @@ int main() {
 
 ZAD3
 
+```c
 #include <stdio.h>
 
 int main() {
@@ -51,10 +52,9 @@ printf("tab[%d]=%d\n",i, tab[i]);
   return 0;
 
   }
-
-
+```
 ZAD4
-
+```c
 #include <stdio.h>
 int main()
 {
@@ -69,10 +69,10 @@ for(i=0;i<=4;i=i+1)
 
 return 0;
 }
-
+```
 
 ZAD5
-
+```c
 #include <stdio.h>
 int main()
 {
@@ -88,9 +88,9 @@ for(i=4;i>=0;i=i-1)
 return 0;
 }
 
-
+```
 ZAD6
-
+```c
 #include <stdio.h>
 int main()
 {
@@ -112,4 +112,4 @@ suma =tab[0]+tab[1]+tab[2]+tab[3]+tab[4] ;
 
 return 0;
 }
-
+```
